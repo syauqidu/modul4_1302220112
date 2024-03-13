@@ -16,7 +16,7 @@
     }
 }
 
-public class Program
+/*public class Program
 {
     public static void Main(string[] args)
     {
@@ -27,4 +27,4 @@ public class Program
             Console.WriteLine(kodeBuah.namaBuah[i] + "   " + kodeBuah.getKodeBuah(i));
         }
     }
-}
+}*/
